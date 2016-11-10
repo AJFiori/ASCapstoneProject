@@ -1,0 +1,16 @@
+C:\Users\Anthony J. Fiori\Desktop\My Documents\NEIT\AS Capstone\Fiori_SE265_Capstone\AS_Capstone\DailyCensusReport\DailyCensusReport\bin\Release\DailyCensusReport.exe.config
+C:\Users\Anthony J. Fiori\Desktop\My Documents\NEIT\AS Capstone\Fiori_SE265_Capstone\AS_Capstone\DailyCensusReport\DailyCensusReport\bin\Release\DailyCensusReport.exe
+C:\Users\Anthony J. Fiori\Desktop\My Documents\NEIT\AS Capstone\Fiori_SE265_Capstone\AS_Capstone\DailyCensusReport\DailyCensusReport\bin\Release\DailyCensusReport.pdb
+C:\Users\Anthony J. Fiori\Desktop\My Documents\NEIT\AS Capstone\Fiori_SE265_Capstone\AS_Capstone\DailyCensusReport\DailyCensusReport\bin\Release\itextsharp.dll
+C:\Users\Anthony J. Fiori\Desktop\My Documents\NEIT\AS Capstone\Fiori_SE265_Capstone\AS_Capstone\DailyCensusReport\DailyCensusReport\bin\Release\itextsharp.pdfa.dll
+C:\Users\Anthony J. Fiori\Desktop\My Documents\NEIT\AS Capstone\Fiori_SE265_Capstone\AS_Capstone\DailyCensusReport\DailyCensusReport\bin\Release\itextsharp.xtra.dll
+C:\Users\Anthony J. Fiori\Desktop\My Documents\NEIT\AS Capstone\Fiori_SE265_Capstone\AS_Capstone\DailyCensusReport\DailyCensusReport\obj\Release\DailyCensusReport.csprojResolveAssemblyReference.cache
+C:\Users\Anthony J. Fiori\Desktop\My Documents\NEIT\AS Capstone\Fiori_SE265_Capstone\AS_Capstone\DailyCensusReport\DailyCensusReport\obj\Release\DailyCensusReport.frmDailyCensusReport.resources
+C:\Users\Anthony J. Fiori\Desktop\My Documents\NEIT\AS Capstone\Fiori_SE265_Capstone\AS_Capstone\DailyCensusReport\DailyCensusReport\obj\Release\DailyCensusReport.HelpForm.resources
+C:\Users\Anthony J. Fiori\Desktop\My Documents\NEIT\AS Capstone\Fiori_SE265_Capstone\AS_Capstone\DailyCensusReport\DailyCensusReport\obj\Release\DailyCensusReport.Properties.Resources.resources
+C:\Users\Anthony J. Fiori\Desktop\My Documents\NEIT\AS Capstone\Fiori_SE265_Capstone\AS_Capstone\DailyCensusReport\DailyCensusReport\obj\Release\DailyCensusReport.ViewRecordForm.resources
+C:\Users\Anthony J. Fiori\Desktop\My Documents\NEIT\AS Capstone\Fiori_SE265_Capstone\AS_Capstone\DailyCensusReport\DailyCensusReport\obj\Release\DailyCensusReport.csproj.GenerateResource.Cache
+C:\Users\Anthony J. Fiori\Desktop\My Documents\NEIT\AS Capstone\Fiori_SE265_Capstone\AS_Capstone\DailyCensusReport\DailyCensusReport\obj\Release\RdlCompile.cache
+C:\Users\Anthony J. Fiori\Desktop\My Documents\NEIT\AS Capstone\Fiori_SE265_Capstone\AS_Capstone\DailyCensusReport\DailyCensusReport\obj\Release\RdlCompile.compiled
+C:\Users\Anthony J. Fiori\Desktop\My Documents\NEIT\AS Capstone\Fiori_SE265_Capstone\AS_Capstone\DailyCensusReport\DailyCensusReport\obj\Release\DailyCensusReport.exe
+C:\Users\Anthony J. Fiori\Desktop\My Documents\NEIT\AS Capstone\Fiori_SE265_Capstone\AS_Capstone\DailyCensusReport\DailyCensusReport\obj\Release\DailyCensusReport.pdb
